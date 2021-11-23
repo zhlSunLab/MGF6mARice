@@ -10,7 +10,7 @@ Inspired by the generation mechanism of 6mA, we construct a new feature, that is
 
 ## Data
 
-#### SMILES strings for bases
+#### SMILES strings for DNA bases
 
 ```shell
 cat ./data/basesSMILES/ATGC.dict

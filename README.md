@@ -64,7 +64,7 @@ cd ./data/ImbalancedData/Rice_Lv/
 cd ./data/IndependentData/NIP_10000/
 ```
 
-##### Cross species independent dataset
+##### Cross species independent datasets
 
 ```shell
 cd ./data/IndependentData/A.thaliana/

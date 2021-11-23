@@ -102,4 +102,4 @@ python ./code/main.py -p ./data/6mA_data/Rice_Chen/Positive.txt -n ./data/6mA_da
 
 ## Contact
 
-Please feel free to contact us if you need any help.
+Please feel free to contact us if you need any help (E-mail: mengyaliu1003@foxmail.com).

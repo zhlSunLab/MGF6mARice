@@ -103,3 +103,17 @@ python ./code/main.py -p ./data/6mA_data/Rice_Chen/Positive.txt -n ./data/6mA_da
 ## Contact
 
 Please feel free to contact us if you need any help (E-mail: mengyaliu1003@foxmail.com).
+
+## Citation
+```reference
+@article{liu2022mgf6marice,
+  title={MGF6mARice: prediction of DNA N6-methyladenine sites in rice by exploiting molecular graph feature and residual block},
+  author={Liu, Mengya and Sun, Zhan-Li and Zeng, Zhigang and Lam, Kin-Man},
+  journal={Briefings in Bioinformatics},
+  volume={23},
+  number={3},
+  pages={bbac082},
+  year={2022},
+  publisher={Oxford University Press}
+}
+```

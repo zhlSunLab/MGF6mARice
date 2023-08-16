@@ -15,7 +15,7 @@ from keras.callbacks import EarlyStopping, ModelCheckpoint, ReduceLROnPlateau
 import gc
 
 
-# Reference from https://github.com/yuht4/SNNRice6mA.
+# The code of the training process is referenced from https://github.com/yuht4/SNNRice6mA/blob/master/SNN6mARice.py.
 def funciton(PositiveCSV, NegativeCSV, OutputDir, folds):
     """
     :param PositiveCSV: the positive samples of input file with comma-separated values.

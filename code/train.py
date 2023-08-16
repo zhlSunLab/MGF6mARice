@@ -14,6 +14,7 @@ from metrics_plot import *
 from keras.callbacks import EarlyStopping, ModelCheckpoint, ReduceLROnPlateau
 import gc
 
+
 # Reference from https://github.com/yuht4/SNNRice6mA.
 def funciton(PositiveCSV, NegativeCSV, OutputDir, folds):
     """
